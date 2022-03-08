@@ -1,0 +1,9 @@
+,Profession,Skill1,Skill2
+0,DS,Analytical thinking,Programming
+1,DA,Analytical thinking,SQL
+2,ML,Algorithms,Mathematics
+3,AI,Algorithms,Software development
+4,Devops,Software lifecycle,CI/CD pipeline
+5,FS Developer,Front End,Back End
+6,Front End developer,Java script,"HTML, CSS"
+7,Back End Developer,Node JS,Database
